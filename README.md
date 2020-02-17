@@ -1,4 +1,12 @@
-# NBA Analysis
+# Airbnb's of New York City Analysis
 
-## Objective
-The purpose of this notebook is to take an in-depth look at NBA statistics that range over decades. There's a lot of discussion concerning the evolution of the NBA from when the Centers were the dominant forces, and now the small and quick Point Guards are dominating the league. This along with questions like "Does college impact your NBA performance?" will be asked and analyzed in this project. Thank you for taking a look!
+## Purpose
+The purpose of this notebook is to further understand pricing of Airbnb's as they relate to one of the world's largest cities, New York City. I am an avid traveler, along with hundreds of millions of others in the world, and one of the biggest hassles can be finding a hotel. For *most of us*, it's a matter of price and this matter usually leads to us either renting or not. Airbnb has come along and disrupted the hotel industry, creating another marketplace for people looking to stay *and* people looking to host. 
+
+I'm hoping to use this research to confirm my outlined predictions and then test those predictions.
+
+This project consists of:
+  * 1 Jupyter Notebook
+  * This README
+  
+I'd like to thank the Inside Airbnb dataset that I used, past professors, friends for all the inspiration they've given me since beginning coding. And lastly, I'd like to thank you for reading through this.
